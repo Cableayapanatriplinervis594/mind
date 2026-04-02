@@ -114,7 +114,18 @@ python3 consciousness_experiment.py -d 86400
 |----------------|--------------|
 | λ | 层级压缩因子 / Level compression factor (λⁿ) |
 | n | 层级索引 / Level index (负=微观, 正=宏观) |
-| d | 空间距离 / Space distance = L₀·λ^\|n\| |
+| d | 空间距离 / Space distance = L₀·λ^|n| |
+
+### GR/QM 整合 / GR/QM Integration
+
+| 概念/Concept | 广义相对论/GR | 量子力学/QM | 本理论/This Theory |
+|---------------|---------------|-------------|-------------------|
+| 时空/Spacetime | $g_{\mu\nu}$ 度规 | $\psi$ 波函数 | $G_{multi}$ 图 |
+| 演化/Evolution | Einstein方程 | 薛定谔方程 | 翻转演化 |
+| 不确定性/Uncertainty | Δx·Δp ≥ ℏ/2 | | 层级修正 |
+| 纠缠/Entanglement | - | 量子纠缠 | 图边纠缠 |
+| 熵/Entropy | Bekenstein | von Neumann | 层级熵 |
+| 全息/Holography | AdS/CFT | | 图-现实对偶 |
 
 ### 物质三模式 / Three Modes of Matter
 
@@ -225,7 +236,7 @@ Anchor → Decide → Reflect → Next
 | `build.sh` | 编译脚本 / Build script |
 | `black_hole_analysis.py` | 黑洞数据分析 / Black hole analysis |
 | `cosmology_integration.py` | 宇宙观测整合 / Cosmology integration |
-| `docs/SIMULATION_REALITY_DUALITY.md` | 代数结构 / Algebraic structure (v1.10) |
+| `docs/SIMULATION_REALITY_DUALITY.md` | 代数结构 / Algebraic structure (v1.12) |
 | `docs/THEORY_FRAMEWORK.md` | 理论框架 / Theory framework |
 
 ---
@@ -275,6 +286,7 @@ Anchor → Decide → Reflect → Next
 - [x] 时间箭头与宿命 / Time arrow and fate
 - [x] 意识与天体同源 / Consciousness-cosmos
 - [x] λ矛盾数学形式化 / λ contradiction formalized
+- [x] GR/QM数学框架 / GR/QM mathematical framework
 - [ ] 数值常量确定 / Numerical constants (α, β, γ_ij)
 - [ ] 多智能体交互理论 / Multi-agent theory
 - [ ] 可检验预测验证 / Testable predictions
@@ -306,6 +318,6 @@ Anchor → Decide → Reflect → Next
 ---
 
 *最后更新 / Last Updated: 2026-04-02*
-*版本 / Version: v1.10*
+*版本 / Version: v1.12*
 *理论来源 / Theory: 分形嵌套宇宙理论 / Fractal Nested Universe Theory*
 *仓库 / Repository: https://github.com/huyuning/mind*
