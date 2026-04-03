@@ -1,0 +1,13 @@
+{
+  "lambda_scaling": {
+    "measured_lambda": 2.0,
+    "theoretical_lambda": 2511.89,
+    "note": "\u5b8c\u5168\u56fe\u52a8\u529b\u5b66\u7531\u56fe\u7ed3\u6784\u51b3\u5b9a\uff0c\u975e\u72b6\u6001\u7a7a\u95f4\u5927\u5c0f",
+    "per_node_results": {
+      "4": {
+        "mean_loop_len": 2.0,
+        "std_loop_len": 0.0,
+        "unique_attractors": 16,
+        "mean_total_states": 2.0,
+        "loop_distribution": {
+          

@@ -1,0 +1,252 @@
+{
+  "lambda_scaling": {
+    "measured_lambda": 2.0,
+    "theoretical_lambda": 2511.89,
+    "note": "\u5b8c\u5168\u56fe\u52a8\u529b\u5b66\u7531\u56fe\u7ed3\u6784\u51b3\u5b9a\uff0c\u975e\u72b6\u6001\u7a7a\u95f4\u5927\u5c0f",
+    "per_node_results": {
+      "4": {
+        "mean_loop_len": 2.0,
+        "std_loop_len": 0.0,
+        "unique_attractors": 16,
+        "mean_total_states": 2.0,
+        "loop_distribution": {
+          "2": 50
+        }
+      },
+      "5": {
+        "mean_loop_len": 2.0,
+        "std_loop_len": 0.0,
+        "unique_attractors": 27,
+        "mean_total_states": 2.0,
+        "loop_distribution": {
+          "2": 50
+        }
+      },
+      "6": {
+        "mean_loop_len": 2.0,
+        "std_loop_len": 0.0,
+        "unique_attractors": 35,
+        "mean_total_states": 2.0,
+        "loop_distribution": {
+          "2": 50
+        }
+      },
+      "7": {
+        "mean_loop_len": 2.0,
+        "std_loop_len": 0.0,
+        "unique_attractors": 43,
+        "mean_total_states": 2.0,
+        "loop_distribution": {
+          "2": 50
+        }
+      },
+      "8": {
+        "mean_loop_len": 2.0,
+        "std_loop_len": 0.0,
+        "unique_attractors": 50,
+        "mean_total_states": 2.0,
+        "loop_distribution": {
+          "2": 50
+        }
+      }
+    }
+  },
+  "attractor_basin": {
+    "n_attractors": 128,
+    "basin_sizes": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "coverage": 0.0078125,
+    "interpretation": "\u591a\u5438\u5f15\u5b50\u5bf9\u5e94\u591a\u91cd\u7269\u7406\u5b9a\u5f8b"
+  },
+  "frequency_spectrum": {
+    "loop_len": 2,
+    "note": "\u5faa\u73af\u957f\u5ea6=2\uff0c\u65e0\u591a\u9891\u8c31\u7279\u5f81",
+    "interpretation": "\u4e8c\u5143\u632f\u8361\u5bf9\u5e94\u5b87\u5b99\u57fa\u672c\u6f6e\u6c50\u5468\u671f"
+  },
+  "fractal_self_similarity": {
+    "mean_ratio": 1.0,
+    "ratio_std": 0.0,
+    "self_similar": "True",
+    "per_node": {
+      "4": {
+        "loop_len": 2,
+        "total_states": 2,
+        "loop_ratio": 1.0,
+        "transient_len": 0
+      },
+      "5": {
+        "loop_len": 2,
+        "total_states": 2,
+        "loop_ratio": 1.0,
+        "transient_len": 0
+      },
+      "6": {
+        "loop_len": 2,
+        "total_states": 2,
+        "loop_ratio": 1.0,
+        "transient_len": 0
+      },
+      "7": {
+        "loop_len": 2,
+        "total_states": 2,
+        "loop_ratio": 1.0,
+        "transient_len": 0
+      },
+      "8": {
+        "loop_len": 2,
+        "total_states": 2,
+        "loop_ratio": 1.0,
+        "transient_len": 0
+      }
+    },
+    "interpretation": "\u4e0d\u540c\u89c4\u6a21\u7cfb\u7edf\u5177\u6709\u76f8\u540c\u7684\u4fe1\u606f\u5904\u7406\u6a21\u5f0f"
+  },
+  "cycle_stability": {
+    "n_trials": 100,
+    "unique_attractors": 70,
+    "unique_loop_lens": 1,
+    "loop_len_mean": 2.0,
+    "loop_len_std": 0.0,
+    "fully_deterministic": false
+  },
+  "theoretical_insights": [
+    {
+      "finding": "\u5206\u5f62\u81ea\u76f8\u4f3c\u6027",
+      "description": "\u5faa\u73af\u6bd4\u6807\u51c6\u5dee=0.0",
+      "theoretical_value": "\u9a8c\u8bc1/\u5426\u5b9a\u5c42\u7ea7\u5d4c\u5957\u5047\u8bf4"
+    },
+    {
+      "finding": "\u5faa\u73af\u9891\u7387\u7279\u5f81",
+      "description": "\u5faa\u73af\u957f\u5ea6=2",
+      "theoretical_value": "\u5faa\u73af\u957f\u5ea6=2\u5bf9\u5e94\u5b87\u5b99\u57fa\u672c\u6f6e\u6c50\u5468\u671f"
+    }
+  ]
+}

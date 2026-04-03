@@ -1,0 +1,560 @@
+{
+  "timestamp": "2026-04-02T19:01:46.121879",
+  "n_bits": 8,
+  "resonance_freq_thz": 0.5,
+  "all_results": [
+    {
+      "type": "error",
+      "position": 0,
+      "result": {
+        "name": "\u4f4d\u7f6e0_\u6709\u9519\u8bef",
+        "initial_bits": [
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "final_bits": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "n_flips": 1,
+        "flip_cycles": [
+          0
+        ],
+        "max_prob": 1.0,
+        "min_prob": 1.0,
+        "mean_prob": 1.0
+      }
+    },
+    {
+      "type": "no_error",
+      "position": 0,
+      "result": {
+        "name": "\u4f4d\u7f6e0_\u65e0\u9519\u8bef",
+        "initial_bits": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "final_bits": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "n_flips": 0,
+        "flip_cycles": [],
+        "max_prob": 1.0,
+        "min_prob": 1.0,
+        "mean_prob": 1.0
+      }
+    },
+    {
+      "type": "error",
+      "position": 1,
+      "result": {
+        "name": "\u4f4d\u7f6e1_\u6709\u9519\u8bef",
+        "initial_bits": [
+          1,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "final_bits": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "n_flips": 1,
+        "flip_cycles": [
+          0
+        ],
+        "max_prob": 1.0,
+        "min_prob": 1.0,
+        "mean_prob": 1.0
+      }
+    },
+    {
+      "type": "no_error",
+      "position": 1,
+      "result": {
+        "name": "\u4f4d\u7f6e1_\u65e0\u9519\u8bef",
+        "initial_bits": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "final_bits": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "n_flips": 0,
+        "flip_cycles": [],
+        "max_prob": 1.0,
+        "min_prob": 1.0,
+        "mean_prob": 1.0
+      }
+    },
+    {
+      "type": "error",
+      "position": 2,
+      "result": {
+        "name": "\u4f4d\u7f6e2_\u6709\u9519\u8bef",
+        "initial_bits": [
+          1,
+          1,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "final_bits": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "n_flips": 1,
+        "flip_cycles": [
+          0
+        ],
+        "max_prob": 1.0,
+        "min_prob": 1.0,
+        "mean_prob": 1.0
+      }
+    },
+    {
+      "type": "no_error",
+      "position": 2,
+      "result": {
+        "name": "\u4f4d\u7f6e2_\u65e0\u9519\u8bef",
+        "initial_bits": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "final_bits": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "n_flips": 0,
+        "flip_cycles": [],
+        "max_prob": 1.0,
+        "min_prob": 1.0,
+        "mean_prob": 1.0
+      }
+    },
+    {
+      "type": "error",
+      "position": 3,
+      "result": {
+        "name": "\u4f4d\u7f6e3_\u6709\u9519\u8bef",
+        "initial_bits": [
+          1,
+          1,
+          1,
+          0,
+          1,
+          1,
+          1,
+          1
+        ],
+        "final_bits": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "n_flips": 1,
+        "flip_cycles": [
+          0
+        ],
+        "max_prob": 1.0,
+        "min_prob": 1.0,
+        "mean_prob": 1.0
+      }
+    },
+    {
+      "type": "no_error",
+      "position": 3,
+      "result": {
+        "name": "\u4f4d\u7f6e3_\u65e0\u9519\u8bef",
+        "initial_bits": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "final_bits": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "n_flips": 0,
+        "flip_cycles": [],
+        "max_prob": 1.0,
+        "min_prob": 1.0,
+        "mean_prob": 1.0
+      }
+    },
+    {
+      "type": "error",
+      "position": 4,
+      "result": {
+        "name": "\u4f4d\u7f6e4_\u6709\u9519\u8bef",
+        "initial_bits": [
+          1,
+          1,
+          1,
+          1,
+          0,
+          1,
+          1,
+          1
+        ],
+        "final_bits": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "n_flips": 1,
+        "flip_cycles": [
+          0
+        ],
+        "max_prob": 1.0,
+        "min_prob": 1.0,
+        "mean_prob": 1.0
+      }
+    },
+    {
+      "type": "no_error",
+      "position": 4,
+      "result": {
+        "name": "\u4f4d\u7f6e4_\u65e0\u9519\u8bef",
+        "initial_bits": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "final_bits": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "n_flips": 0,
+        "flip_cycles": [],
+        "max_prob": 1.0,
+        "min_prob": 1.0,
+        "mean_prob": 1.0
+      }
+    },
+    {
+      "type": "error",
+      "position": 5,
+      "result": {
+        "name": "\u4f4d\u7f6e5_\u6709\u9519\u8bef",
+        "initial_bits": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          0,
+          1,
+          1
+        ],
+        "final_bits": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "n_flips": 1,
+        "flip_cycles": [
+          0
+        ],
+        "max_prob": 1.0,
+        "min_prob": 1.0,
+        "mean_prob": 1.0
+      }
+    },
+    {
+      "type": "no_error",
+      "position": 5,
+      "result": {
+        "name": "\u4f4d\u7f6e5_\u65e0\u9519\u8bef",
+        "initial_bits": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "final_bits": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "n_flips": 0,
+        "flip_cycles": [],
+        "max_prob": 1.0,
+        "min_prob": 1.0,
+        "mean_prob": 1.0
+      }
+    },
+    {
+      "type": "error",
+      "position": 6,
+      "result": {
+        "name": "\u4f4d\u7f6e6_\u6709\u9519\u8bef",
+        "initial_bits": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          0,
+          1
+        ],
+        "final_bits": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "n_flips": 1,
+        "flip_cycles": [
+          0
+        ],
+        "max_prob": 1.0,
+        "min_prob": 1.0,
+        "mean_prob": 1.0
+      }
+    },
+    {
+      "type": "no_error",
+      "position": 6,
+      "result": {
+        "name": "\u4f4d\u7f6e6_\u65e0\u9519\u8bef",
+        "initial_bits": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "final_bits": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "n_flips": 0,
+        "flip_cycles": [],
+        "max_prob": 1.0,
+        "min_prob": 1.0,
+        "mean_prob": 1.0
+      }
+    },
+    {
+      "type": "error",
+      "position": 7,
+      "result": {
+        "name": "\u4f4d\u7f6e7_\u6709\u9519\u8bef",
+        "initial_bits": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          0
+        ],
+        "final_bits": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "n_flips": 1,
+        "flip_cycles": [
+          0
+        ],
+        "max_prob": 1.0,
+        "min_prob": 1.0,
+        "mean_prob": 1.0
+      }
+    },
+    {
+      "type": "no_error",
+      "position": 7,
+      "result": {
+        "name": "\u4f4d\u7f6e7_\u65e0\u9519\u8bef",
+        "initial_bits": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "final_bits": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "n_flips": 0,
+        "flip_cycles": [],
+        "max_prob": 1.0,
+        "min_prob": 1.0,
+        "mean_prob": 1.0
+      }
+    }
+  ],
+  "analysis": {
+    "error_flips": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "no_error_flips": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "correct_predictions": 16,
+    "total": 16,
+    "accuracy": 100.0
+  }
+}

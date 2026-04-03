@@ -1,0 +1,715 @@
+{
+  "timestamp": "2026-04-02T19:12:52.526458",
+  "n_data_bits": 4,
+  "n_total_bits": 7,
+  "single_bit_results": [
+    {
+      "error_pos": 0,
+      "received": [
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "detected_pos": 0,
+      "correct": true
+    },
+    {
+      "error_pos": 1,
+      "received": [
+        1,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "detected_pos": 1,
+      "correct": true
+    },
+    {
+      "error_pos": 2,
+      "received": [
+        1,
+        1,
+        0,
+        1,
+        1,
+        1,
+        1
+      ],
+      "detected_pos": 2,
+      "correct": true
+    },
+    {
+      "error_pos": 3,
+      "received": [
+        1,
+        1,
+        1,
+        0,
+        1,
+        1,
+        1
+      ],
+      "detected_pos": 3,
+      "correct": true
+    },
+    {
+      "error_pos": 4,
+      "received": [
+        1,
+        1,
+        1,
+        1,
+        0,
+        1,
+        1
+      ],
+      "detected_pos": 4,
+      "correct": true
+    },
+    {
+      "error_pos": 5,
+      "received": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
+        1
+      ],
+      "detected_pos": 5,
+      "correct": true
+    },
+    {
+      "error_pos": 6,
+      "received": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0
+      ],
+      "detected_pos": 6,
+      "correct": true
+    }
+  ],
+  "random_error_results": [
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 2,
+      "detected_pos": 2
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 3,
+      "detected_pos": 3
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 5,
+      "detected_pos": 5
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 1,
+      "detected_pos": 1
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 5,
+      "detected_pos": 5
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 5,
+      "detected_pos": 5
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 3,
+      "detected_pos": 3
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 3,
+      "detected_pos": 3
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 6,
+      "detected_pos": 6
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 5,
+      "detected_pos": 5
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 5,
+      "detected_pos": 5
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 0,
+      "detected_pos": 0
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 2,
+      "detected_pos": 2
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 1,
+      "detected_pos": 1
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 1,
+      "detected_pos": 1
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 2,
+      "detected_pos": 2
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 1,
+      "detected_pos": 1
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 1,
+      "detected_pos": 1
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 5,
+      "detected_pos": 5
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 0,
+      "detected_pos": 0
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 0,
+      "detected_pos": 0
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 0,
+      "detected_pos": 0
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 6,
+      "detected_pos": 6
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 3,
+      "detected_pos": 3
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 3,
+      "detected_pos": 3
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 6,
+      "detected_pos": 6
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 6,
+      "detected_pos": 6
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 1,
+      "detected_pos": 1
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 4,
+      "detected_pos": 4
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 2,
+      "detected_pos": 2
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 2,
+      "detected_pos": 2
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 3,
+      "detected_pos": 3
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 2,
+      "detected_pos": 2
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 2,
+      "detected_pos": 2
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 0,
+      "detected_pos": 0
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 6,
+      "detected_pos": 6
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 5,
+      "detected_pos": 5
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 0,
+      "detected_pos": 0
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 3,
+      "detected_pos": 3
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 1,
+      "detected_pos": 1
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 3,
+      "detected_pos": 3
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 0,
+      "detected_pos": 0
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 3,
+      "detected_pos": 3
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 5,
+      "detected_pos": 5
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 1,
+      "detected_pos": 1
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 1,
+      "detected_pos": 1
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 1,
+      "detected_pos": 1
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 3,
+      "detected_pos": 3
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 0,
+      "detected_pos": 0
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 3,
+      "detected_pos": 3
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 0,
+      "detected_pos": 0
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 6,
+      "detected_pos": 6
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 4,
+      "detected_pos": 4
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 1,
+      "detected_pos": 1
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 0,
+      "detected_pos": 0
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 5,
+      "detected_pos": 5
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 3,
+      "detected_pos": 3
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 3,
+      "detected_pos": 3
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 1,
+      "detected_pos": 1
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 5,
+      "detected_pos": 5
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 5,
+      "detected_pos": 5
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 4,
+      "detected_pos": 4
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 1,
+      "detected_pos": 1
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 1,
+      "detected_pos": 1
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 1,
+      "detected_pos": 1
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 4,
+      "detected_pos": 4
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 4,
+      "detected_pos": 4
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 5,
+      "detected_pos": 5
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 6,
+      "detected_pos": 6
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 5,
+      "detected_pos": 5
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 2,
+      "detected_pos": 2
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 3,
+      "detected_pos": 3
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 0,
+      "detected_pos": 0
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 1,
+      "detected_pos": 1
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 0,
+      "detected_pos": 0
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 1,
+      "detected_pos": 1
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 3,
+      "detected_pos": 3
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 1,
+      "detected_pos": 1
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 3,
+      "detected_pos": 3
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 6,
+      "detected_pos": 6
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 2,
+      "detected_pos": 2
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 1,
+      "detected_pos": 1
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 2,
+      "detected_pos": 2
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 6,
+      "detected_pos": 6
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 5,
+      "detected_pos": 5
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 4,
+      "detected_pos": 4
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 1,
+      "detected_pos": 1
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 0,
+      "detected_pos": 0
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 6,
+      "detected_pos": 6
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 2,
+      "detected_pos": 2
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 0,
+      "detected_pos": 0
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 6,
+      "detected_pos": 6
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 2,
+      "detected_pos": 2
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 1,
+      "detected_pos": 1
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 1,
+      "detected_pos": 1
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 3,
+      "detected_pos": 3
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 4,
+      "detected_pos": 4
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 6,
+      "detected_pos": 6
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 2,
+      "detected_pos": 2
+    },
+    {
+      "success": true,
+      "detection_correct": true,
+      "true_error_pos": 4,
+      "detected_pos": 4
+    }
+  ],
+  "analysis": {
+    "n_trials": 100,
+    "success_count": 100,
+    "success_rate": 1.0,
+    "detection_count": 100,
+    "detection_rate": 1.0,
+    "detection_accuracy": 100.0
+  }
+}
